@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Raoof</h1>
 <h3 align="center">Software Engineer From India</h3>
 
-- 🌱 I’m currently learning **React Native, NodeJS,**
-
-- 📫 How to reach me **devraoof@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mohammed_raoof_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed_raoof_" height="30" width="40" /></a>
